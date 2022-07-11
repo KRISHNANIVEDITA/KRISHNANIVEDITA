@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KRISHNANIVEDITA
-- 👀 I’m interested in Computational Particle Physics
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m interested in Computational AstroParticle Physics
+- 🌱 Machine Learning 
+- 💞️ I’m looking to collaborate on projects related to cosmic neutrino and cosmic ray experiments
 - 📫 How to reach me .@niveditakrishnag@gmail.com
 
 <!---
